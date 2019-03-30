@@ -5,7 +5,7 @@
 * @package PM Welcome [Brazilian Portuguese [pt_br]] 
 * @copyright BB3.MOBi (c) 2015 Anvar http://apwa.ru
 * @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
-* Brazilian Portuguese  translation by null2 (c) 2016 [ver 1.0.1] (https://github.com/phpBBTraducoes)
+* Brazilian Portuguese  translation by null2 [2016][ver 1.0.1] (https://github.com/phpBBTraducoes)
 */
 if (!defined('IN_PHPBB'))
 {
